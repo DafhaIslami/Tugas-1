@@ -1,0 +1,48 @@
+Nama	: Dafha Islami
+Kelas	: 5MIP
+NIM	: 062040832816
+
+
+Prak. Rekayasa Web
+
+
+
+1. Apa itu git dan kegunaannya?
+2. Apa itu github dan kegunaannya?
+3. Sebutkan istila istila yang ada di git dan jelaskan masing masing istila tersebut?
+4. Sebutkan layanan selain github?
+
+JAWAB
+
+1. Git adalah sistem kendali versi terdistribusi, yang berarti semua codebase dan riwayat kode akan tersedia di komputer setiap developer untuk memudahkan pembuatan branch dan penggabungan. Git dikembangkan oleh Linus Torvalds pada tahun 2005, dan merupakan inti atau jantung GitHub.
+Memiliki fungsionalitas, kinerja, keamanan, dan fleksibilitas yang dibutuhkan oleh banyak developer, baik untuk personal maupun tim. Anda bisa membaca tentang ini di poin sebelumnya. Dibandingkan dengan version control system lainnya, kebanyakan developer lebih menyukai Git.
+
+2. Mengutip Tech Target, Microsoft menjadi kontributor terbesar untuk GitHub, memulai akuisisi GitHub  sebesar 7,5 miliar dolar AS pada Juni 2018.  GitHub, yang dikirimkan melalui model bisnis software-as-a-service (SaaS) dimulai pada 2008.
+GitHub digunakan untuk menyimpan source code untuk suatu proyek dan melacak riwayat lengkap semua perubahan kode itu. Ini memungkinkan pengguna untuk berkolaborasi dalam proyek secara lebih efektif dengan menyediakan alat untuk mengelola perubahan yang mungkin bertentangan dari beberapa pengembang. 
+
+3. *Git
+Git sendiri adalah jantung atau inti dari GitHub. Git merupakan sistem pengontrol versi yang dikembangkan oleh seseorang yang juga menciptakan dan mengembangkan sistem operasi Linux yaitu Linus Torvalds.
+ 
+*Hub
+Jika Git adalah jantungnya GitHub maka Hub adalah jiwanya. Hub sendiri merupakan jiwa GitHub karena fungsinya yang mengubah command line (baris perintah) menjadi jaringan sosial bagi para programmer.
+ 
+*Repositori
+Repositori sendiri adalah deriktori penyimpanan file-file proyek. File-file tersebut bisa berupa file gambar, file kode, atau file audio, tapi biasanya dan kebanyakan berisi file kode. Letak Repositori sendiri ada di penyimpanan GitHub atau penyimpanan lokal komputer Anda.
+ 
+*Forking Repositori
+Forking Repositori merupakan fitur yang singkatnya berguna untuk menyalin Repositori yang sudah ada ke Repositori baru, lalu menambahkan beberapa perubahan dan menjadikannya Repositori Anda.
+ 
+*Branch
+Singkatnya Branch adalah salinan Repositori yang digunakan apabila memulai suatu pengembangan proyek secara terpisah. Branch ini memungkinkan kita melakukan suatu pengembangan secara terpisah tanpa menggangu Repositori atau Branch lain.
+ 
+*Pull Request
+Singkatnya Pull Request merupakan perintah untuk mengirimkan informasi dari Branch ke Master Repositori bahwa Anda telah melakukan perubahan atau penambahan di Branch.
+
+4. - SourceForge 
+- CodePlex 
+- BitBucket 
+- GitLab 
+- BeanStalk 
+- Google Cloud Source 
+
+
